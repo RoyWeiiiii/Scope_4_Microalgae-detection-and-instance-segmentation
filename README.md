@@ -1,6 +1,11 @@
-# Translating pixels into identification: Cutting-edge microalgae detection and instance segmentation by leveraging YOLO models 
+# Graphical Abstract
 <img width="4000" height="2250" alt="GA_Eco_Info_R2" src="https://github.com/user-attachments/assets/0c8ba5e2-b8e7-404c-bb7c-3fcbf2b9efa7" />
 
+# Translating pixels into identification: Cutting-edge microalgae detection and instance segmentation by leveraging YOLO models 
+
+By **Jun Wei Roy Chong**, Kuan Shiong Khoo, Huong-Yong Ting, Iwamoto Koji, Zengling Ma, Pau Loke Show
+
+This study harnesses the advanced capabilities of the YOLOv11 model to enhance real-time detection and instance segmentation of microalgae species, specifically Chlorella vulgaris FSP-E, Chlamydomonas reinhardtii, and Spirulina platensis. Comprehensive evaluations revealed that the original RGB dataset provided better detection accuracy compared to pre-processed datasets. The YOLOv11-n box detection achieved high accuracy with precision, recall, F1 score, mAP50, and mAP50-95 of 0.860 ± 0.000, 0.871 ± 0.002, 0.865 ± 0.001, 0.916 ± 0.002, and 0.727 ± 0.002, respectively. Nonetheless, YOLOv11-n box instance segmentation demonstrated superior performance with precision, recall, F1 score, mAP50, and mAP50-95 of 0.893 ± 0.006, 0.904 ± 0.009, 0.898 ± 0.002, 0.952 ± 0.001 and 0.810 ± 0.005, respectively. On this dataset and hardware, the YOLOv11 slightly outperformed its predecessors, YOLOv5, YOLOv7, and YOLOv8, in terms of comparable overall performance with lower computational cost and faster inference speed, yet still able to deliver high accuracy results on densely populated microalgae samples. 
 
 **Keywords:** Microalgae; Detection; Instance segmentation; YOLOv7; YOLOv8; YOLOv11
 
