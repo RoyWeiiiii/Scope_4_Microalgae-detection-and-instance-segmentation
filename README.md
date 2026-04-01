@@ -6,9 +6,9 @@
 
 # Folder and files description
 
-**Section 3.1** => Contains Juptyer notebooks, trained results (csv) for YOLOv5-s (small), YOLOv7 (small), and YOLOv8-n (nano) Detection which describes the "**Microalgae detection performance of different algorithms**".
+**Section 3.1** => Contains Juptyer notebooks, trained results (csv) for YOLOv5-n (nano), YOLOv7-tiny (tiny), YOLOv8-n (nano), and YOLOv11-n (nano) Detection models which describes the "**Microalgae detection performance of different algorithms**". The Google Drive link is as follows: https://drive.google.com/drive/folders/1SuflYLkYU9PlPBTX6Uruapmk5DYnNOXw?usp=sharing
 
-**Section 3.2** => Contains Juptyer notebooks, trained results (csv) for YOLOv8-n Detection (Trial 1, 2, 3, 4, and 5) which describes the "**Impact of dataset labelling and number of instances**".
+**Section 3.2** => Contains Juptyer notebooks, trained results (csv) for YOLOv11-n Detection (Trial 1, 2, 3, 4, and 5) which describes the "**Impact of dataset labelling and number of instances**". The Google Drive link is as follows: https://drive.google.com/drive/folders/11438i9l4H90QnnXHoBuuTwY-k5yo7wYK?usp=sharing
 
 **Section 3.3** => Contains Juptyer notebooks, trained results (csv) for YOLOv8-n Detection (RGB [Basaeline model], Grayscale, Grayscale with Histogram Equalisation, and Grayscale with Adaptive Equalisation which describes the "**Effect of image pre-processing**".
 
