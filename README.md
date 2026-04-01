@@ -6,7 +6,7 @@
 
 # Folder and files description
 
-**Note: ** All experiments were performed in triplicate by running 3 different seed values of Seed=0, Seed=42, and Seed=1337 to ensure reliability of the work
+**Note:** All experiments were performed in triplicate by running 3 different seed values of Seed=0, Seed=42, and Seed=1337 to ensure reliability of the work
 
 # Google drive (Complete results and data)
 For complete results and data can be found in the subsequent link => https://drive.google.com/drive/folders/1snWsnSzZehW-pF3uX65zt4NcGAdU0gUv?usp=sharing
