@@ -1,7 +1,8 @@
 # Translating pixels into identification: Cutting-edge microalgae detection and instance segmentation by leveraging YOLOv8 models 
-To be filled later on
+<img width="4000" height="2250" alt="GA_Eco_Info_R2" src="https://github.com/user-attachments/assets/0c8ba5e2-b8e7-404c-bb7c-3fcbf2b9efa7" />
 
-**Keywords:** 
+
+**Keywords:** Microalgae; Detection; Instance segmentation; YOLOv7; YOLOv8; YOLOv11
 
 # Folder and files description
 
